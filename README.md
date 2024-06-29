@@ -13,3 +13,5 @@
 最后，用一句诗作为结尾：
 
 > 问渠那得清如许？为有源头活水来。
+
+var gitalk = new Gitalk({ "clientID": "Ov23li9m6GvXUX05KwQo", "clientSecret": "5b31d1b38a0ef6acc6d1351c29bd6fc0a7bbef05", "repo": "https://ustcguide.gitbook.io/coursedata/", "owner": "ustccoursedata", "admin": \["ustccoursedata"], "id": location.pathname, "distractionFreeMode": false }); gitalk.render("gitalk-container");
