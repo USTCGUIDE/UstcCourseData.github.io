@@ -3,6 +3,7 @@
 ## 开始 <a href="#start" id="start"></a>
 
 * [序](README.md)
+* [USTC不完全入学指南](start/ustc-bu-wan-quan-ru-xue-zhi-nan.md)
 
 ## 大一必看 <a href="#freshman" id="freshman"></a>
 
