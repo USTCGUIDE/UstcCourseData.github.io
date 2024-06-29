@@ -14,4 +14,6 @@
 
 > 问渠那得清如许？为有源头活水来。
 
+<link rel="stylesheet" href="//cdn.bootcss.com/gitalk/1.5.0/gitalk.min.css">
+<script src="//cdn.bootcss.com/gitalk/1.5.0/gitalk.min.js"></script>
 var gitalk = new Gitalk({ "clientID": "Ov23li9m6GvXUX05KwQo", "clientSecret": "5b31d1b38a0ef6acc6d1351c29bd6fc0a7bbef05", "repo": "https://ustcguide.gitbook.io/coursedata/", "owner": "ustccoursedata", "admin": \["ustccoursedata"], "id": location.pathname, "distractionFreeMode": false }); gitalk.render("gitalk-container");
