@@ -6,8 +6,8 @@
 
 ## 大一必看 <a href="#freshman" id="freshman"></a>
 
-* [Page](freshman/page.md)
-* [线性代数](freshman/xian-xing-dai-shu.md)
+* [数学分析B1\&B2](freshman/page.md)
+* [线性代数B1](freshman/xian-xing-dai-shu.md)
 
 ## Group 3
 
