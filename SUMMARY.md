@@ -10,12 +10,13 @@
 
 * [数学分析B1\&B2](freshman/page.md)
 * [线性代数B1](freshman/xian-xing-dai-shu.md)
+* [力学](freshman/li-xue.md)
+* [电磁学](freshman/dian-ci-xue.md)
+* [热学](freshman/re-xue.md)
+* [大物实验](freshman/da-wu-shi-yan.md)
 
 ## 专业基础 <a href="#foundation" id="foundation"></a>
 
-* [力学](foundation/li-xue.md)
-* [电磁学](foundation/dian-ci-xue.md)
-* [热学](foundation/re-xue.md)
 * [光学](foundation/guang-xue.md)
 * [原子物理](foundation/yuan-zi-wu-li.md)
 * [电子技术基础](foundation/dian-zi-ji-shu-ji-chu.md)
