@@ -10,6 +10,7 @@
 
 ## 试卷与答案
 
+* [热学上古密卷](https://easylink.cc/m0klme)
 * [2024春热学A期末试卷](https://easylink.cc/tc0sx1)
 
 ## 笔记与其他
