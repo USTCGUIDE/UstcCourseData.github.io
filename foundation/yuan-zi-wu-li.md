@@ -1,6 +1,11 @@
 # 原子物理
 
-## 试卷
+## 教材与习题集
+
+* [近代物理学（第3版）【徐克尊 等】中国科学技术大学出版社](https://easylink.cc/h9hwrq)
+* [原子物理学（第四版）【杨福家】高等教育出版社](https://easylink.cc/88ru6o)
+
+## 试卷与答案
 
 * [原子物理上古密卷](https://easylink.cc/eqe390)
 * [原子物理2016期末考试题](https://easylink.cc/l43e1)

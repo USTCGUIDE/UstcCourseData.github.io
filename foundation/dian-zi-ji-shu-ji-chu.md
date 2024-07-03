@@ -1,6 +1,6 @@
 # 电子技术基础
 
-## 试卷
+## 试卷与答案
 
 * [上古密卷-电子技术基础1](https://easylink.cc/jlydlv)
 * [上古密卷-电子技术基础2](https://easylink.cc/4t29yk)
