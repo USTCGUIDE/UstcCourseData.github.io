@@ -26,7 +26,7 @@
 * [原子物理](foundation/yuan-zi-wu-li.md)
 * [概率论与数理统计](foundation/gaillun-yu-shu-li-tong-ji.md)
 * [复变函数](foundation/fu-bian-han-shu.md)
-* [数学物理方程](foundation/shu-xue-wu-li-fang-cheng.md)
+* [数理方程](foundation/shu-li-fang-cheng.md)
 * [电子技术基础](foundation/dian-zi-ji-shu-ji-chu.md)
 * [数字电路](foundation/shu-zi-dian-lu.md)
 * [计算方法](foundation/ji-suan-fang-fa.md)

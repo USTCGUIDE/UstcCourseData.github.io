@@ -13,7 +13,7 @@
 
 ## 试卷与答案
 
-* [数学分析真题](https://easylink.cc/bezlg9)
+* [数学分析真题集](https://easylink.cc/bezlg9)
 * [部分真题答案](https://easylink.cc/c1865i)
 
 ## 笔记与其他
