@@ -3,6 +3,7 @@
 ## 开始 <a href="#start" id="start"></a>
 
 * [序](README.md)
+* [声明](start/sheng-ming.md)
 * [更新日志与贡献者名单](start/geng-xin-ri-zhi-yu-gong-xian-zhe-ming-dan.md)
 * [关于投稿](start/guan-yu-tou-gao.md)
 
