@@ -4,6 +4,7 @@
 
 * [序](README.md)
 * [更新日志与贡献者名单](start/geng-xin-ri-zhi-yu-gong-xian-zhe-ming-dan.md)
+* [关于投稿](start/guan-yu-tou-gao.md)
 
 ## USTCGUIDE系列 <a href="#ustcguide" id="ustcguide"></a>
 
