@@ -38,14 +38,14 @@
   * [20理论力学A期末考试参考答案【袁业飞】](https://easylink.cc/d0b1mw)
   * [22理论力学A期末试卷参考答案【袁业飞】](https://easylink.cc/zl40c2)
 * 李毅：
-  *
+  * [21理论力学A期末试卷自出题部分【李毅、整理：徐小航（20少）】](https://easylink.cc/dfutw4)
 * 曹利民：
   * [23春理论力学A期末试卷【曹利民】](https://easylink.cc/elu4v0)
 * 其他：
   * [21理论力学A期末试卷【未知】](https://easylink.cc/v7j01y)
-*
 
 ## 笔记与其他
 
 * [理论力学A【朱界杰】](https://easylink.cc/u6akca)
+* [理论力学A【袁业飞】](https://easylink.cc/dt25bo)
 * [理论力学笔记【孙诗佳（18物）】](https://easylink.cc/82icmx)
