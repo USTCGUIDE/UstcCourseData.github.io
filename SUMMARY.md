@@ -8,7 +8,7 @@
 ## USTCGUIDE系列 <a href="#ustcguide" id="ustcguide"></a>
 
 * [USTCGUIDE计划介绍](ustcguide/readme.md)
-* [USTC不完全入学指南](ustcguide/ustc-bu-wan-quan-ru-xue-zhi-nan.md)
+* [USTC不完全入学指南](ustcguide/admission.md)
 * [USTC生存手册（TODO）](ustcguide/ustc-sheng-cun-shou-ce-todo.md)
 
 ## 大一必看 <a href="#freshman" id="freshman"></a>
