@@ -36,6 +36,6 @@
 ## 四大力学 <a href="#foundation" id="foundation"></a>
 
 * [理论力学](foundation-1/li-lun-li-xue.md)
-* [电动力学（TODO）](foundation-1/dian-dong-li-xue-todo.md)
+* [电动力学（TODO）](foundation-1/dian-dong-li-xue.md)
 * [量子力学（TODO）](foundation-1/liang-zi-li-xue-todo.md)
 * [热力学与统计物理](foundation-1/page-3.md)
