@@ -1,5 +1,15 @@
 # 热力学与统计物理
 
+## 教材与习题集
+
+* [热力学与统计物理导论【Herbert B. Callen、翻译：超理汉化物理组】](https://easylink.cc/jgh5ip)
+* [热学 热力学与统计物理\[上册\]习题与答案](https://easylink.cc/uf15eo)
+* [热学 热力学与统计物理\[上册\]（第二版）【曹烈兆、周子舫】](https://easylink.cc/zv03mo)[科学出版社](https://easylink.cc/zv03mo)
+* [热学 热力学与统计物理\[下册\]（第二版）【曹烈兆、周子舫】](https://easylink.cc/sht2u5)[科学出版社](https://easylink.cc/sht2u5)
+* [物理学大题典 热学 热力学 统计物理（第二版）【郑久仁、周子舫】](https://easylink.cc/wejnxs)[科学出版社](https://easylink.cc/wejnxs)
+* [热力学统计物理（第四版）【汪至诚】高等教育出版社](https://easylink.cc/cdq4f5)
+* [热力学与统计物理学【林宗涵】北京大学出版社](https://easylink.cc/xmwqa6)
+
 ## 试卷与答案
 
 【期中考试】
