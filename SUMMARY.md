@@ -30,12 +30,12 @@
 * [电子技术基础](foundation/dian-zi-ji-shu-ji-chu.md)
 * [数字电路](foundation/shu-zi-dian-lu.md)
 * [计算方法](foundation/ji-suan-fang-fa.md)
-* [计算物理（TODO）](foundation/ji-suan-wu-li-todo.md)
-* [固体物理（TODO）](foundation/gu-ti-wu-li-todo.md)
+* [计算物理（TODO）](foundation/ji-suan-wu-li.md)
+* [固体物理（TODO）](foundation/gu-ti-wu-li.md)
 
 ## 四大力学 <a href="#foundation" id="foundation"></a>
 
 * [理论力学](foundation-1/li-lun-li-xue.md)
-* [电动力学](foundation-1/dian-dong-li-xue.md)
-* [量子力学](foundation-1/liang-zi-li-xue.md)
+* [电动力学（TODO）](foundation-1/dian-dong-li-xue-todo.md)
+* [量子力学（TODO）](foundation-1/liang-zi-li-xue-todo.md)
 * [热力学与统计物理](foundation-1/page-3.md)
