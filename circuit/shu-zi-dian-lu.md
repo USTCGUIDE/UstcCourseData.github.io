@@ -20,7 +20,7 @@
 
 【以下为信息学院数字逻辑电路（课程号210050）复习资料】
 
-* [数字逻辑电路复习宝典](https://easylink.cc/sa9lwx)
+* [数字逻辑电路复习宝典【高源】](https://easylink.cc/umom24)
 * [数字逻辑电路学习指导](https://easylink.cc/e9wqs1)
 * [2022秋数电第一次习题课](https://easylink.cc/7l9j9v)
 * [2022秋数电第二次习题课](https://easylink.cc/ig8dge)

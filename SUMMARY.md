@@ -22,22 +22,36 @@
 * [热学](freshman/re-xue.md)
 * [大物实验](freshman/da-wu-shi-yan.md)
 
-## 专业基础 <a href="#foundation" id="foundation"></a>
+## 物理：从入门到入土 <a href="#physics" id="physics"></a>
 
-* [光学](foundation/guang-xue.md)
-* [原子物理](foundation/yuan-zi-wu-li.md)
-* [概率论与数理统计](foundation/gaillun-yu-shu-li-tong-ji.md)
-* [复变函数](foundation/fu-bian-han-shu.md)
-* [数理方程](foundation/shu-xue-wu-li-fang-cheng.md)
-* [电子技术基础](foundation/dian-zi-ji-shu-ji-chu.md)
-* [数字电路](foundation/shu-zi-dian-lu.md)
-* [计算方法](foundation/ji-suan-fang-fa.md)
-* [计算物理（TODO）](foundation/ji-suan-wu-li.md)
-* [固体物理（TODO）](foundation/gu-ti-wu-li.md)
+* [光学](physics/guang-xue.md)
+* [原子物理](physics/yuan-zi-wu-li.md)
+* [理论力学](physics/li-lun-li-xue.md)
+* [电动力学（TODO）](physics/dian-dong-li-xue-todo.md)
+* [量子力学（TODO）](physics/liang-zi-li-xue-todo.md)
+* [热力学与统计物理](physics/page-3.md)
+* [固体物理（TODO）](physics/gu-ti-wu-li-todo.md)
+* [计算物理（TODO）](physics/ji-suan-wu-li-todo.md)
 
-## 四大力学 <a href="#foundation" id="foundation"></a>
+## 电路（电基什么时候滚出物院必修 <a href="#circuit" id="circuit"></a>
 
-* [理论力学](foundation-1/li-lun-li-xue.md)
-* [电动力学（TODO）](foundation-1/dian-dong-li-xue.md)
-* [量子力学（TODO）](foundation-1/liang-zi-li-xue-todo.md)
-* [热力学与统计物理](foundation-1/page-3.md)
+* [电子技术基础（含模拟电路）](circuit/dian-zi-ji-shu-ji-chu-han-mo-ni-dian-lu.md)
+* [数字电路](circuit/shu-zi-dian-lu.md)
+* [电子线路实验（TODO）](circuit/dian-zi-xian-lu-shi-yan-todo.md)
+
+## 非数专业的数学课 <a href="#mathfoundation" id="mathfoundation"></a>
+
+* [概率论与数理统计](mathfoundation/gaillun-yu-shu-li-tong-ji.md)
+* [复变函数](mathfoundation/fu-bian-han-shu.md)
+* [数理方程](mathfoundation/shu-li-fang-cheng.md)
+* [计算方法](mathfoundation/ji-suan-fang-fa.md)
+* [近世代数与数论（TODO）](mathfoundation/jin-shi-dai-shu-yu-shu-lun-todo.md)
+
+## 数院基础课程（TODO） <a href="#mathsfoundation" id="mathsfoundation"></a>
+
+* [代数学基础](mathsfoundation/dai-shu-xue-ji-chu.md)
+* [几何学基础（TODO）](mathsfoundation/ji-he-xue-ji-chu-todo.md)
+
+## 信智学部相关 <a href="#computer" id="computer"></a>
+
+* [密码学导论](computer/mi-ma-xue-dao-lun.md)
