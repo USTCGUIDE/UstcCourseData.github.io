@@ -4,6 +4,7 @@
 
 * [序](README.md)
 * [声明](start/sheng-ming.md)
+* [使用教程](start/shi-yong-jiao-cheng.md)
 * [更新日志与贡献者名单](start/geng-xin-ri-zhi-yu-gong-xian-zhe-ming-dan.md)
 * [关于投稿](start/guan-yu-tou-gao.md)
 
@@ -15,6 +16,7 @@
 
 ## 大一必看 <a href="#freshman" id="freshman"></a>
 
+* [入学考（TODO）](freshman/ru-xue-kao-todo.md)
 * [数学分析B1\&B2](freshman/page.md)
 * [线性代数B1](freshman/xian-xing-dai-shu.md)
 * [力学](freshman/li-xue.md)
