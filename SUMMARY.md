@@ -23,6 +23,7 @@
 * [电磁学](freshman/dian-ci-xue.md)
 * [热学](freshman/re-xue.md)
 * [大物实验](freshman/da-wu-shi-yan.md)
+* [C语言程序设计（TODO）](freshman/c-yu-yan-cheng-xu-she-ji-todo.md)
 
 ## 物理：从入门到入土 <a href="#physics" id="physics"></a>
 
@@ -48,12 +49,17 @@
 * [数理方程](mathfoundation/shu-li-fang-cheng.md)
 * [计算方法](mathfoundation/ji-suan-fang-fa.md)
 * [近世代数与数论（TODO）](mathfoundation/jin-shi-dai-shu-yu-shu-lun-todo.md)
+* [图论](mathfoundation/tu-lun.md)
 
 ## 数院基础课程（TODO） <a href="#mathsfoundation" id="mathsfoundation"></a>
 
 * [代数学基础](mathsfoundation/dai-shu-xue-ji-chu.md)
-* [几何学基础（TODO）](mathsfoundation/ji-he-xue-ji-chu-todo.md)
+* [几何学基础](mathsfoundation/ji-he-xue-ji-chu.md)
+* [微分方程引论（微分方程I）](mathsfoundation/wei-fen-fang-cheng-yin-lun-wei-fen-fang-cheng-i.md)
 
 ## 信智学部相关 <a href="#computer" id="computer"></a>
 
-* [密码学导论](computer/mi-ma-xue-dao-lun.md)
+* [数据结构、数据结构及其算法](computer/shu-ju-jie-gou-shu-ju-jie-gou-ji-qi-suan-fa.md)
+* [计算机网络](computer/ji-suan-ji-wang-luo.md)
+* [计算系统概论（TODO）](computer/ji-suan-xi-tong-gai-lun-todo.md)
+* [密码学导论（TODO）](computer/mi-ma-xue-dao-lun-todo.md)
