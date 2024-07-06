@@ -7,6 +7,6 @@
 
 ### 贡献者名单 <a href="#bian-zhe-ming-dan" id="bian-zhe-ming-dan"></a>
 
-LinFeng，Alice Shimada，Qifan，Tiankai Ma，Tian Wu，pishooter，……
+LinFeng，Alice Shimada，Qifan，Tiankai Ma，Tian Wu，pishooter，Junyan ZHANG……
 
-_按照贡献时间排序_
+_按照入站时间排序，如果使用到了您的资料但您未出现在贡献者名单，请在关于投稿中找到我们的联系方式_
