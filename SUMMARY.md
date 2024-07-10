@@ -55,7 +55,9 @@
   * [计算系统概论（TODO）](ke-cheng-zi-liao/xin-zhi-xue-bu-zhuan-ye-ke/ji-suan-xi-tong-gai-lun-todo.md)
   * [密码学导论（TODO）](ke-cheng-zi-liao/xin-zhi-xue-bu-zhuan-ye-ke/mi-ma-xue-dao-lun-todo.md)
 * [化学](ke-cheng-zi-liao/hua-xue/README.md)
+  * [化学原理B](ke-cheng-zi-liao/hua-xue/hua-xue-yuan-li-b.md)
   * [分析化学I](ke-cheng-zi-liao/hua-xue/fen-xi-hua-xue-i.md)
+  * [无机与分析化学实验](ke-cheng-zi-liao/hua-xue/wu-ji-yu-fen-xi-hua-xue-shi-yan.md)
 
 ## rec睿客网
 
