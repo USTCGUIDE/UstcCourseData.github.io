@@ -54,6 +54,8 @@
   * [计算机网络](ke-cheng-zi-liao/xin-zhi-xue-bu-zhuan-ye-ke/ji-suan-ji-wang-luo.md)
   * [计算系统概论（TODO）](ke-cheng-zi-liao/xin-zhi-xue-bu-zhuan-ye-ke/ji-suan-xi-tong-gai-lun-todo.md)
   * [密码学导论（TODO）](ke-cheng-zi-liao/xin-zhi-xue-bu-zhuan-ye-ke/mi-ma-xue-dao-lun-todo.md)
+* [化学](ke-cheng-zi-liao/hua-xue/README.md)
+  * [分析化学I](ke-cheng-zi-liao/hua-xue/fen-xi-hua-xue-i.md)
 
 ## rec睿客网
 
