@@ -17,6 +17,7 @@
 * [2021秋电磁学公共题](https://easylink.cc/jbq3vu)
 * [2022秋电磁学B期末考试参考答案](https://easylink.cc/wcuqst)
 * [2021春电磁学期中期末](https://easylink.cc/idgxif)
+* [2024春电磁学A期中考试【卢三】](https://easylink.cc/uxqo1j)
 * [2024春电磁学H期中试卷](https://easylink.cc/tybsl3)
 * [2024春电磁学H期末试卷](https://easylink.cc/oisqsd)
 

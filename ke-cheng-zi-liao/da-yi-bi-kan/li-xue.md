@@ -16,3 +16,4 @@
 ## 笔记与其他
 
 * [力学A4【余启帆（19创）】](https://easylink.cc/13ty3c)
+* [力学A 2023秋 丁桂军老师 课件+作业+参考资料](https://easylink.cc/e032vw)
