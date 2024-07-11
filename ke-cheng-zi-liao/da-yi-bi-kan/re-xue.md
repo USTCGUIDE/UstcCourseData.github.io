@@ -14,3 +14,5 @@
 * [2024春热学A期末试卷](https://easylink.cc/tc0sx1)
 
 ## 笔记与其他
+
+* [热学2024春课件【王慧元】](https://easylink.cc/3zml7x)
