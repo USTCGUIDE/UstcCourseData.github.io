@@ -59,8 +59,6 @@
   * [分析化学I](ke-cheng-zi-liao/hua-xue/fen-xi-hua-xue-i.md)
   * [无机与分析化学实验](ke-cheng-zi-liao/hua-xue/wu-ji-yu-fen-xi-hua-xue-shi-yan.md)
 
-## 物理：从入门到入土 <a href="#physics" id="physics"></a>
-
 ## rec睿客网
 
 * [加入群组（TODO）](rec-rui-ke-wang/jia-ru-qun-zu-todo.md)
