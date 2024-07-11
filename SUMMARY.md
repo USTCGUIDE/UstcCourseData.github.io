@@ -29,8 +29,8 @@
   * [光学](ke-cheng-zi-liao/wu-li-cong-ru-men-dao-ru-tu/guang-xue.md)
   * [原子物理](ke-cheng-zi-liao/wu-li-cong-ru-men-dao-ru-tu/yuan-zi-wu-li.md)
   * [理论力学](ke-cheng-zi-liao/wu-li-cong-ru-men-dao-ru-tu/li-lun-li-xue.md)
-  * [电动力学（TODO）](ke-cheng-zi-liao/wu-li-cong-ru-men-dao-ru-tu/dian-dong-li-xue-todo.md)
-  * [量子力学（TODO）](ke-cheng-zi-liao/wu-li-cong-ru-men-dao-ru-tu/liang-zi-li-xue-todo.md)
+  * [电动力学（TODO）](foundation-1/dian-dong-li-xue.md)
+  * [量子力学（TODO）](foundation-1/liang-zi-li-xue-todo.md)
   * [热力学与统计物理](ke-cheng-zi-liao/wu-li-cong-ru-men-dao-ru-tu/page-3.md)
   * [固体物理（TODO）](ke-cheng-zi-liao/wu-li-cong-ru-men-dao-ru-tu/gu-ti-wu-li-todo.md)
   * [计算物理（TODO）](ke-cheng-zi-liao/wu-li-cong-ru-men-dao-ru-tu/ji-suan-wu-li-todo.md)
@@ -58,6 +58,8 @@
   * [化学原理B](ke-cheng-zi-liao/hua-xue/hua-xue-yuan-li-b.md)
   * [分析化学I](ke-cheng-zi-liao/hua-xue/fen-xi-hua-xue-i.md)
   * [无机与分析化学实验](ke-cheng-zi-liao/hua-xue/wu-ji-yu-fen-xi-hua-xue-shi-yan.md)
+
+## 物理：从入门到入土 <a href="#physics" id="physics"></a>
 
 ## rec睿客网
 
