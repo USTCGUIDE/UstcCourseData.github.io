@@ -7,12 +7,11 @@
 * [使用教程](start/shi-yong-jiao-cheng.md)
 * [更新日志与贡献者名单](start/geng-xin-ri-zhi-yu-gong-xian-zhe-ming-dan.md)
 * [关于投稿](start/guan-yu-tou-gao.md)
+* [USTCGUIDE系列](start/ustcguide/README.md)
+  * [USTC不完全入学指南](start/ustcguide/admission.md)
+  * [USTC生存手册（TODO）](start/ustcguide/ustc-sheng-cun-shou-ce-todo.md)
 
 ## USTCGUIDE系列 <a href="#ustcguide" id="ustcguide"></a>
-
-* [USTCGUIDE计划介绍](ustcguide/readme.md)
-* [USTC不完全入学指南](ustcguide/admission.md)
-* [USTC生存手册（TODO）](ustcguide/ustc-sheng-cun-shou-ce-todo.md)
 
 ## 课程资料
 
